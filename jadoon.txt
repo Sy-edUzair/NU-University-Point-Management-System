@@ -1,0 +1,25 @@
+STOPS OFFERED BY JADOON:
+Route 1:
+Driver Name: Shahid   Phone:03171279801
+Stops:
+1-Khatme-Nabowat Chowk  2-Kaneez Fatima 3-Madras Chowk 4-G3 stop 5-Quetta Town 6-Suchal Goth 7-Chapal 8-Memon HP 9-Gull Estate
+
+Route 2:
+Driver Name:Zeeshan   Phone:03022469296
+Stops:
+1-Rabia City  2-Pehelwan Goth 3-Sindh Baloch 4-POB eye hospital 5-Orient banquet 6-Munawar Chowrangi 7-Kamran Chowrangi 8-Bismillah Tower 9-Malir
+
+Route 3:
+Driver Name:M.Ali   Phone:03006881595
+Stops:
+1-Maymar Gate  2-Jamal Pull 3-Abbas Town 4-Paradise Bakery 5-Maskan 6-Disco Bakery 7-Rim Jhim(Gulshan)
+
+Route 4:
+Driver Name:Ahsan   Phone:03022844293
+Stops:
+1-4k stop  2-2 minute Chworangi 3-Power House 4-Saleem Center 5-UP more 6-Nagan Chowrangi 7-Shadman 2-1 8-Sakhi Hasan 9-People's chowrangi 10-Gulberg
+
+Route 5:
+Driver Name:Jibran   Phone:03062389683
+Stops:
+1-Dolmen Mall  2-5star 3-Farooq-e-Azam 4-DC OFFICE 5-People's Chowrangi 6-Piyala Hotel 7-Lucky one 8-Moti Mahal 9-Gulshan Dhaka
